@@ -1,0 +1,15 @@
+edit hello.txt
+Hello world
+
+show hello.txt
+edit hello.txt
+Goodbye cruel world
+
+show hello.txt
+ls
+edit bye.txt
+Bye cruel world
+
+ls
+mkdir src
+ls

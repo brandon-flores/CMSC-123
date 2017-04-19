@@ -1,0 +1,1 @@
+Linked List mga ulol
